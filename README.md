@@ -42,11 +42,12 @@ In order to make this program to work I used listed below .jar files.
 
 ...and set of javafx's.
 
-You can download it from [_here_](https://mvnrepository.com/).
+You can download it from [_mvn repository_](https://mvnrepository.com/).
 
 If you are using IntelliJ IDEA IDE adding those into your project takes place as follows:
 
-File -> Project Structure... -> Modules -> Dependencies -> + -> JARs an Directiories
+
+-> File -> Project Structure... -> Modules -> Dependencies -> + -> JARs and Directiories -> ...
 
 Note: There is a posibility that not all of them are necessary (if so please, let me know :))
  
