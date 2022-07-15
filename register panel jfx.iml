@@ -66,19 +66,6 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/../PROGRAMY/bibliotekiCzytanieXSSF/javafx-sdk-11.0.1/lib" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../PROGRAMY/bibliotekiCzytanieXSSF/javafx-sdk-11.0.1/lib" />
-        </SOURCES>
-        <jarDirectory url="file://$MODULE_DIR$/../PROGRAMY/bibliotekiCzytanieXSSF/javafx-sdk-11.0.1/lib" recursive="false" />
-        <jarDirectory url="file://$MODULE_DIR$/../PROGRAMY/bibliotekiCzytanieXSSF/javafx-sdk-11.0.1/lib" recursive="false" type="SOURCES" />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
           <root url="jar://$MODULE_DIR$/../PROGRAMY/bibliotekiCzytanieXSSF/commons-io-2.11.0.jar!/" />
         </CLASSES>
         <JAVADOC />
@@ -88,7 +75,97 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../PROGRAMY/bibliotekiCzytanieXSSF/poi-ooxml-schemas-4.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../PROGRAMY/bibliotekiCzytanieXSSF/poi-ooxml-full-5.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../PROGRAMY/bibliotekiCzytanieXSSF/log4j.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$JAVA_FX$/javafx.base.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$JAVA_FX$/javafx-swt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$JAVA_FX$/javafx.controls.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$JAVA_FX$/javafx.fxml.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$JAVA_FX$/javafx.graphics.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$JAVA_FX$/javafx.media.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$JAVA_FX$/javafx.swing.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$JAVA_FX$/javafx.web.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../PROGRAMY/bibliotekiCzytanieXSSF/log4j-api-2.18.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
