@@ -1,14 +1,3 @@
-<style>
-image
-{
-    display:block;
-    float:none;
-    margin-left:auto;
-    margin-right:auto;
-    width:60%;
-}
-</style>
-
 # Registration and Logging Panel in JavaFX
 
 >Application with GUI that enables reading and saving entered by user data from excel spreadsheet.
